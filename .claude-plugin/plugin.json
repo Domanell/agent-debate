@@ -1,0 +1,10 @@
+{
+  "name": "agent-debate",
+  "description": "Evidence-based debates between two AI agents through one shared file, with a helper script that hands out turns and reports round and time limits.",
+  "author": {
+    "name": "Oleksandr Pavlii"
+  },
+  "homepage": "https://github.com/Domanell/agent-debate",
+  "license": "MIT",
+  "version": "0.1.0"
+}

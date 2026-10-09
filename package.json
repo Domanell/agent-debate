@@ -1,0 +1,14 @@
+{
+  "name": "agent-debate",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Evidence-based debate skill for AI agents",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
